@@ -1,0 +1,454 @@
+[
+  {
+    "marka": "BMW",
+    "id": "bmw"
+  },
+  {
+    "marka": "Ford",
+    "id": "ford"
+  },
+  {
+    "marka": "Holden",
+    "id": "holden"
+  },
+  {
+    "marka": "Honda",
+    "id": "honda"
+  },
+  {
+    "marka": "Hyundai",
+    "id": "hyundai"
+  },
+  {
+    "marka": "Mazda",
+    "id": "mazda"
+  },
+  {
+    "marka": "Mercedes-Benz",
+    "id": "mercedes"
+  },
+  {
+    "marka": "Mitsubishi",
+    "id": "mitsubishi"
+  },
+  {
+    "marka": "Nissan",
+    "id": "nissan"
+  },
+  {
+    "marka": "Subaru",
+    "id": "subaru"
+  },
+  {
+    "marka": "Toyota",
+    "id": "toyota"
+  },
+  {
+    "marka": "Volkswagen",
+    "id": "volkswagen"
+  },
+  {
+    "marka": "Abarth",
+    "id": "abarth"
+  },
+  {
+    "marka": "Alfa Romeo",
+    "id": "alfaromeo"
+  },
+  {
+    "marka": "Armstrong Siddeley",
+    "id": "armstrongsiddeley"
+  },
+  {
+    "marka": "Aston Martin",
+    "id": "astonmartin"
+  },
+  {
+    "marka": "Audi",
+    "id": "audi"
+  },
+  {
+    "marka": "Austin Healey",
+    "id": "austinhealey"
+  },
+  {
+    "marka": "Austin",
+    "id": "austin"
+  },
+  {
+    "marka": "Bedford",
+    "id": "bedford"
+  },
+  {
+    "marka": "Bentley",
+    "id": "bentley"
+  },
+  {
+    "marka": "Bertone",
+    "id": "bertone"
+  },
+  {
+    "marka": "BMW",
+    "id": "bmw"
+  },
+  {
+    "marka": "BMW Alpina",
+    "id": "bmwalpina"
+  },
+  {
+    "marka": "Buick",
+    "id": "buick"
+  },
+  {
+    "marka": "Cadillac",
+    "id": "cadillac"
+  },
+  {
+    "marka": "Chery",
+    "id": "chery"
+  },
+  {
+    "marka": "Chevrolet",
+    "id": "chevrolet"
+  },
+  {
+    "marka": "Chrysler",
+    "id": "chrysler"
+  },
+  {
+    "marka": "Citroen",
+    "id": "citroen"
+  },
+  {
+    "marka": "Daewoo",
+    "id": "daewoo"
+  },
+  {
+    "marka": "Daihatsu",
+    "id": "daihatsu"
+  },
+  {
+    "marka": "Daimler",
+    "id": "daimler"
+  },
+  {
+    "marka": "Datsun",
+    "id": "datsun"
+  },
+  {
+    "marka": "De Tomaso",
+    "id": "detomaso"
+  },
+  {
+    "marka": "Dodge",
+    "id": "dodge"
+  },
+  {
+    "marka": "Eunos",
+    "id": "eunos"
+  },
+  {
+    "marka": "Ferrari",
+    "id": "ferrari"
+  },
+  {
+    "marka": "Fiat",
+    "id": "fiat"
+  },
+  {
+    "marka": "Ford",
+    "id": "ford"
+  },
+  {
+    "marka": "Foton",
+    "id": "foton"
+  },
+  {
+    "marka": "Freightliner",
+    "id": "freightliner"
+  },
+  {
+    "marka": "Geely",
+    "id": "geely"
+  },
+  {
+    "marka": "Great Wall",
+    "id": "greatwall"
+  },
+  {
+    "marka": "Haval",
+    "id": "haval"
+  },
+  {
+    "marka": "Hillman",
+    "id": "hillman"
+  },
+  {
+    "marka": "Hino",
+    "id": "hino"
+  },
+  {
+    "marka": "Holden",
+    "id": "holden"
+  },
+  {
+    "marka": "Honda",
+    "id": "honda"
+  },
+  {
+    "marka": "HSV",
+    "id": "hsv"
+  },
+  {
+    "marka": "Hummer",
+    "id": "hummer"
+  },
+  {
+    "marka": "Hyundai",
+    "id": "hyundai"
+  },
+  {
+    "marka": "Infiniti",
+    "id": "infiniti"
+  },
+  {
+    "marka": "Isuzu",
+    "id": "isuzu"
+  },
+  {
+    "marka": "Iveco",
+    "id": "iveco"
+  },
+  {
+    "marka": "Jaguar",
+    "id": "jaguar"
+  },
+  {
+    "marka": "Jeep",
+    "id": "jeep"
+  },
+  {
+    "marka": "Jensen",
+    "id": "jensen"
+  },
+  {
+    "marka": "JMC",
+    "id": "jmc"
+  },
+  {
+    "marka": "Kia",
+    "id": "kia"
+  },
+  {
+    "marka": "Lamborghini",
+    "id": "lamborghini"
+  },
+  {
+    "marka": "Lancia",
+    "id": "lancia"
+  },
+  {
+    "marka": "Land Rover",
+    "id": "landrover"
+  },
+  {
+    "marka": "LDV",
+    "id": "ldv"
+  },
+  {
+    "marka": "Lexus",
+    "id": "lexus"
+  },
+  {
+    "marka": "Leyland",
+    "id": "leyland"
+  },
+  {
+    "marka": "Lotus",
+    "id": "lotus"
+  },
+  {
+    "marka": "Mahindra",
+    "id": "mahindra"
+  },
+  {
+    "marka": "Maserati",
+    "id": "maserati"
+  },
+  {
+    "marka": "Maybach",
+    "id": "maybach"
+  },
+  {
+    "marka": "Mazda",
+    "id": "mazda"
+  },
+  {
+    "marka": "McLaren",
+    "id": "mclaren"
+  },
+  {
+    "marka": "Mercedes-Benz",
+    "id": "mercedes"
+  },
+  {
+    "marka": "Mercedes-AMG",
+    "id": "mercedesamg"
+  },
+  {
+    "marka": "Mercedes-Maybach",
+    "id": "mercedesmaybach"
+  },
+  {
+    "marka": "M.G.",
+    "id": "mg"
+  },
+  {
+    "marka": "Mini",
+    "id": "mini"
+  },
+  {
+    "marka": "Mitsubishi",
+    "id": "mitsubishi"
+  },
+  {
+    "marka": "Mitsubishi Fuso",
+    "id": "mitsubishifuso"
+  },
+  {
+    "marka": "Morgan",
+    "id": "morgan"
+  },
+  {
+    "marka": "Morris",
+    "id": "morris"
+  },
+  {
+    "marka": "Nissan",
+    "id": "nissan"
+  },
+  {
+    "marka": "Opel",
+    "id": "opel"
+  },
+  {
+    "marka": "Performax",
+    "id": "performax"
+  },
+  {
+    "marka": "Peugeot",
+    "id": "peugeot"
+  },
+  {
+    "marka": "Pontiac",
+    "id": "pontiac"
+  },
+  {
+    "marka": "Porsche",
+    "id": "porsche"
+  },
+  {
+    "marka": "Proton",
+    "id": "proton"
+  },
+  {
+    "marka": "Ram",
+    "id": "ram"
+  },
+  {
+    "marka": "Rambler",
+    "id": "rambler"
+  },
+  {
+    "marka": "Range Rover",
+    "id": "rangerover"
+  },
+  {
+    "marka": "Renault",
+    "id": "renault"
+  },
+  {
+    "marka": "Rolls-Royce",
+    "id": "rollsroyce"
+  },
+  {
+    "marka": "Rover",
+    "id": "rover"
+  },
+  {
+    "marka": "Saab",
+    "id": "saab"
+  },
+  {
+    "marka": "Seat",
+    "id": "seat"
+  },
+  {
+    "marka": "Skoda",
+    "id": "skoda"
+  },
+  {
+    "marka": "Smart",
+    "id": "smart"
+  },
+  {
+    "marka": "Ssangyong",
+    "id": "ssangyong"
+  },
+  {
+    "marka": "Standard",
+    "id": "standard"
+  },
+  {
+    "marka": "Studebaker",
+    "id": "studebaker"
+  },
+  {
+    "marka": "Subaru",
+    "id": "subaru"
+  },
+  {
+    "marka": "Sunbeam",
+    "id": "sunbeam"
+  },
+  {
+    "marka": "Suzuki",
+    "id": "suzuki"
+  },
+  {
+    "marka": "Tata",
+    "id": "tata"
+  },
+  {
+    "marka": "Tesla",
+    "id": "tesla"
+  },
+  {
+    "marka": "Toyota",
+    "id": "toyota"
+  },
+  {
+    "marka": "Triumph",
+    "id": "triumph"
+  },
+  {
+    "marka": "Vauxhall",
+    "id": "vauxhall"
+  },
+  {
+    "marka": "Volkswagen",
+    "id": "volkswagen"
+  },
+  {
+    "marka": "Volvo",
+    "id": "volvo"
+  },
+  {
+    "marka": "Wolseley",
+    "id": "wolseley"
+  },
+  {
+    "marka": "Other",
+    "id": "othrmake"
+  }
+]
